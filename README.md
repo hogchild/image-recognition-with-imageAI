@@ -1,1 +1,1 @@
-# image-recognition-with-imageAI
+# Image recognition with imageAI
